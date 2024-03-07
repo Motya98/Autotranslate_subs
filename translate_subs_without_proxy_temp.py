@@ -28,7 +28,7 @@ def target(tempory_text):
                 pass
         time.sleep(1)
 
-tempory_text = []
+tempory_text = ''
 root = Tk()
 root.geometry("700x100+0+130")
 root.attributes('-alpha', 0.4)
